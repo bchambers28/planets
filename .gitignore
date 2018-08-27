@@ -1,2 +1,4 @@
-data/*
-!data/info.txt
+results/*.out
+*.dat
+log_*
+!log_01

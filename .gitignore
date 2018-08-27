@@ -2,5 +2,3 @@ results/*.out
 *.dat
 log_*
 !log_01
-
-
